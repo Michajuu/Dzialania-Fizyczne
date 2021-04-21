@@ -51,6 +51,7 @@ body {
     background-color: white;
     text-align: center;
     transform: scale(1);
+    padding-bottom: 11111;
   }
   img {
     transition: 0.3s;
